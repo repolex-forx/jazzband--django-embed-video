@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jazzband/django-embed-video/commit/2b644987acb178d9113854b0c370b178a3a67a5e",
       "git:hexsha": "2b644987acb178d9113854b0c370b178a3a67a5e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jazzband/django-embed-video/commit/7099569523da5c5279ab8d26048893df8de09cc0",
