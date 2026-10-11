@@ -1,0 +1,11 @@
+{
+  "org": "jazzband",
+  "repo": "django-embed-video",
+  "versions": [
+    {
+      "commit": "2b644987acb178d9113854b0c370b178a3a67a5e",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:12:22.173379+00:00"
+    }
+  ]
+}
